@@ -1,4 +1,4 @@
-# Atliq Grands Market Revitalization Project
+# AtliQ Grands Market Revitalization Project
 
 ## Overview
 The Atliq Grands Market Revitalization project is a strategic initiative aimed at regaining market share and revenue in the luxury/business hotel category. By incorporating business and data intelligence, this project focuses on analyzing historical data to uncover insights and drive informed decision-making.
