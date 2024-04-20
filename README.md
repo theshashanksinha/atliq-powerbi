@@ -21,3 +21,4 @@ The Atliq Grands Market Revitalization project is a strategic initiative aimed a
 - **Hospitality Industry Expertise:** Familiar with the hospitality industry landscape, customer behavior trends, and best practices.
 
 ## Report Preview
+![Final Report](/images/Report.jpg)
