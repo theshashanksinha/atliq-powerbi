@@ -1,24 +1,13 @@
 # Project Title: AtliQ Grands Market Revitalization
 
 ## Overview
-The Atliq Grands Market Revitalization project is a strategic initiative aimed at regaining market share and revenue in the luxury/business hotel category. By incorporating business and data intelligence, this project focuses on analyzing historical data to uncover insights and drive informed decision-making.
+This project spearheaded the revival of AtliQ Grand's Luxury/Business Hotel sector, leveraging strategic Data Analysis and Visualization. Utilizing Power BI and Excel, I meticulously analyzed Historical Data from multiple Five-Star Hotels in India, examining a Dataset of over 130,000 Entries to discern Market Trends, Booking Patterns, and Guest Preferences. Key Performance Indicators (KPIs) revealed:
 
-## Key Accomplishments
-- **Data Analysis:** Successfully analyzed historical data from multiple five-star hotels across India to identify market trends, booking patterns, and customer preferences.
-- **Insightful Visualizations:** Developed interactive dashboards in Power BI to visualize revenue trends, occupancy rates, and customer ratings, enabling stakeholders to gain actionable insights.
-- **Strategic Recommendations:** Provided strategic recommendations based on data-driven insights to optimize revenue management, enhance guest experiences, and regain market competitiveness.
+* Total Revenue Generated: INR 2 Billion.
+* Average Length of Stay: 2.37 Days.
+* Average Occupancy Rate: 58.31%.
 
-## Technical Skills
-- **Power BI:** For data visualization, dashboard creation, and data analysis.
-- **Data Cleansing:** Cleaned and prepared data for analysis, ensuring accuracy and consistency using Excel & PowerQuery.
-- **Data Interpretation:** Interpreted complex data and derived actionable insights to drive business decisions.
-- **Stakeholder Engagement:** Communicated insights effectively to stakeholders and translating data into meaningful recommendations.
-
-## Additional Skills
-- **Strategic Analysis:** Able to identify strategic opportunities and develop recommendations to address business challenges.
-- **Market Research:** Proficient in conducting market research and competitor analysis to inform strategic decision-making.
-- **Revenue Management:** Knowledgeable in revenue management strategies and tactics to optimize pricing and maximize revenue.
-- **Hospitality Industry Expertise:** Familiar with the hospitality industry landscape, customer behavior trends, and best practices.
+Translating Complex Data into Actionable Insights, I developed Interactive Power BI Dashboards, empowering Stakeholders with Decision-Making Tools. The Project refined Skills in Data Analysis, Visualization, and Stakeholder Communication, showcasing my ability to drive Impactful Outcomes through Data-Driven Insights for AtliQ Grands.
 
 ## Report Preview
 ![Final Report](/images/Report.jpg)
